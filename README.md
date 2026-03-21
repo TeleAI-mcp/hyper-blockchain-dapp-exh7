@@ -1,2 +1,3 @@
-# hyper-blockchain-dapp-exh7
+# Hyper Blockchain Dapp Exh7
+
 A blockchain decentralized application for modern development workflows.
